@@ -6,7 +6,7 @@ Ubuntu Korean Community C++ Basic Study Textbook
 
 * 시작 일시 : 2017년 12월 20일 예정
 
-* 종료 일시 : 2017년 2월 21일 예정
+* 종료 일시 : 2018년 2월 21일 예정
 
 * 스터디 대상 : c++을 배우지 못한 컴퓨터 전공 신입생
 
