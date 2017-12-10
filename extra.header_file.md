@@ -21,6 +21,7 @@ int sum(int a,int b);
 * sum.cpp
 
 ```c++
+#include "sum.h"
 int sum(int a, int b){
     return a + b;
 }
