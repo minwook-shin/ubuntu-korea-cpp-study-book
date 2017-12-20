@@ -6,7 +6,7 @@ Ubuntu Korean Community C++ Basic Study Textbook
 
 [C++ 기초 스터디 모집을 진행합니다.](https://survey.ubuntu-kr.org/index.php/413361?lang=ko)
 
-* 비용 : 유료 (강남점, 평일, 7-9시, 10명, 6주차, 1인당 6000원 * 5회분 + 10000원(환급비))
+* 비용 : 유료 (강남점, 평일, 7-9시, 6명, 6주차, 1인당 6000원 * 5회분 + 10000원(환급비))
 
 * 참여 비용 : 40000원 (10000원 조건부 환급)
 
@@ -18,7 +18,7 @@ Ubuntu Korean Community C++ Basic Study Textbook
 
 * 스터디 기간 :6주 과정
 
-* 스터디 시작일 : 2017년 12월 20일
+* 스터디 시작일 : 2017년 12월 27일
 
 * 모집 마감일 : 2017년 12월 17일
 
