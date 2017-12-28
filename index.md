@@ -46,4 +46,4 @@
 
 [23.visualstudio-gpp](https://github.com/minwook-shin/ubuntu-korea-cpp-study-book/blob/master/23.visualstudio-gpp.md) / 비주얼스튜디오 조심하게 쓰기
 
-[additional_assgnment](https://github.com/minwook-shin/ubuntu-korea-cpp-study-book/blob/master/additional_assgnment.md) / 추가 과제 목록
+[additional_assignment](https://github.com/minwook-shin/ubuntu-korea-cpp-study-book/blob/master/additional_assignment.md) / 추가 과제 목록
